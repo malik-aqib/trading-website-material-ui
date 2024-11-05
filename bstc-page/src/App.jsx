@@ -17,7 +17,7 @@ function App() {
       <Section4/>
       <Section5/>
       <Section6/>
-    </container>git
+    </container>
   );
 }
 
