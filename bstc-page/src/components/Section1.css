@@ -1,0 +1,13 @@
+
+.gradient{
+color: #ba44ff;
+
+border-bottom: 5px solid transparent;
+
+border-image: linear-gradient(#00d0e1,#ba44ff)
+}
+
+.image{
+    width: 100vh;
+     margin-right: 80px;
+}
